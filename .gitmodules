@@ -1,0 +1,6 @@
+[submodule "lib/php/db"]
+	path = lib/php/db
+	url = https://github.com/mattholmes/tst_db.git
+[submodule "lib/php/output"]
+	path = lib/php/output
+	url = https://github.com/mattholmes/tst_output.git
